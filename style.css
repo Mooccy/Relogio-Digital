@@ -1,0 +1,17 @@
+body {
+    font-family: "Tiny5", sans-serif;
+    text-align: left;
+    font-size: 50px;
+    background-image: url('https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ec/End_Poem_background.png/revision/latest?cb=20210820074126');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: dimgray;
+}
+
+.relogio {
+    font-size: 200px;
+    background-image: url("https://media.forgecdn.net/avatars/thumbnails/602/499/256/256/637983096796926072.png");
+    padding-left: 30px;
+    color: black;
+    display: inline-block;
+}
